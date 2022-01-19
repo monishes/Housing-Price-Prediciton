@@ -3,7 +3,7 @@ Predicting the Housing Prices using Machine Learning Regression Models using the
 
 This Project predicts the Housing Prices according to various factors such as Crime Rate, Number of Rooms, Size, Tax rate etc.
 
-This project uses the Boston House-Price Datset f Harrison, D. and Rubinfeld, D.L. 'Hedonic
+This project uses the Boston House-Price Datset of Harrison, D. and Rubinfeld, D.L. 'Hedonic
  prices and the demand for clean air', J. Environ. Economics & Management,
  vol.5, 81-102, 1978.   Used in Belsley, Kuh & Welsch, 'Regression diagnostics
  ...', Wiley, 1980.
